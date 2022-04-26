@@ -147,6 +147,8 @@ main {
   padding: 10em 2em 0;
   display: flex;
   flex-wrap: wrap;
+  max-width: 1200px;
+  margin-inline: auto;
 }
 
 .testimonial {
